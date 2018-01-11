@@ -26,43 +26,43 @@
 <index-nav-gallery "Galerie">
 <index-nav-home "Domů">
 
-<index-unleash "Unleash your creativity">
-<index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
-<index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
+<index-unleash "Uvolni svou kreativitu">
+<index-blurb "Vytvářej krásné poznámky rychle a snadno. Sdílej je s přáteli a kolegy, abyste mohli pracovat na svých nápadech společně.">
+<index-viewgallery "Nebo se podívej na <a>Coggle Gallery</a> pro inspiraci.">
 
 <index-colab-mindmaps """
-  <h1>Collaborative Mind Maps</h1>
-  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
-  <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+  <h1>Utváření myšlenkových map</h1>
+  <p>Coggle je online nástroj pro vytváření a sdílení myšlenkových map. Pracuj online ve svém prohlížeči: nemusíš nic stahovat nebo instalovat. <a>Přihlaš se</a> abys mohli začít mapovat myšlení hned teď!</p>
+  <p>Ať již vytváříš poznámky, organizuješ brainstorming, plánuješ nebo děláš něco neuvěřitelně kreativního, je velmi jednoduché vizualizovat tvé nápady pomocí Coggle. Poděl se o ně s tolik přáteli nebo kolegy, s kolika chceš. Provedené změny se okamžitě zobrazí v jejich prohlížeči, bez ohledu na to, kde se ve světě zrovna nacházejí..</p>
 """>
 
 <index-use-notes """
   <div><img></div>
-  <h2>Take Notes</h2>
-  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
+  <h2>Dělej si poznámky</h2>
+  <p>Otevři si Coggle na schůzce, během revize nebo kdekoliv, kde tě napadne vytvořit krásné strukturované poznámky.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
-  <h2>Brainstorm</h2>
-  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+  <h2>Nápady</h2>
+  <p>Začni s nápadem, vlož jej do Coggle a sleduj, jak se rozrůstá do plnohodnotného plánu, jasně rozprostřeného a připraveného ke sdílení.</p>
 """>
 
 <index-use-share """
   <div><img></div>
   <h2>Share Information</h2>
-  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+  <p>Vytáhni to podstatné do Coggle, uveď všechny detaily, a sdílej se svým týmem, spolužáky, nebo se světem!</p>
 """>
     
 <index-use-other """
-  These are just a few of the things Coggle is useful for – <a>get started</a> now to discover your own!
+  To jsou jen některé z věcí, kterým Coggle pomáhá – <a>začnie</a> a objev své vlastní!
 """>
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From $8 per member per month</div></a>
+  <h2>Pomoz svému teamu komunikovat s <a>Coggle Organizací</a>.</h2>
+  <p>Zajisti svému týmu sdílený prostor pro brainstorming, zaznamenávání a dokumentaci nápadů. Coggle Organizace přichází se všemi funkcemi, které potřebujete ke správě, řízení dat a integraci s pracovními postupy. Více informací <a>zde</a>.</p>
+  <a>Zaregistruj se nyní<div>Od $8 na člena za měsíc</div></a>
 """>
 
 <features-realtime "Realtime Collaboration">
