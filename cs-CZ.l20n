@@ -96,106 +96,106 @@
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever "Coggle is free to use, and always will be. Create unlimited public diagrams and share them for free.">
+<plans-title-freeforever "Coggle je k použití zdarma a vždy bude. Vytvářej neomezeně veřejné diagramy a zdarma je sdílej.">
 
-<plans-free-forever-title "Free Forever">
-<plans-free-description "Ideal for discovering Coggle and occasional use.">
-<plans-free-price "Free forever">
-<feature-free-private "<b>1</b> private diagram">
-<feature-realtime "<b>Real-time</b> collaboration">
-<feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
-<feature-diagrams "<b>Unlimited</b> public diagrams">
+<plans-free-forever-title "Navždy Zdarma">
+<plans-free-description "Ideální pro objevování Coggle a příležitostné využití.">
+<plans-free-price "Navždy zdarma">
+<feature-free-private "<b>1</b> soukromý diagram">
+<feature-realtime "<b>Real-time</b> spolupráce">
+<feature-emoji "Over <b>1600</b> <a>krásných ikon</a>">
+<feature-diagrams "<b>Neomezeně</b> veřejných diagramů">
 <feature-nprivate[$privateDiagrams.available] {
        1: "1 private diagram",
    *many: "{{ $privateDiagrams.available }} private diagrams"
 }>
-<feature-images "<b>Unlimited</b> image uploads">
-<feature-changes "<b>Full</b> change history">
-<feature-markdown "<b>Markdown</b> support">
-<feature-downloads "<b>PDF & Image</b> download">
-<feature-labels "Unconnected <b>text boxes</b>">
-<feature-exports "Export as <b>.mm and text</b>">
-<feature-imports "Import <b>.mm and text</b>">
-<feature-chat "Comments & Chat">
-<feature-embed "Embeddable diagrams">
-<plans-free-getstarted "Get Started">
+<feature-images "<b>Neomezené</b> nahrávání obrázků">
+<feature-changes "<b>Úplná</b> změna historie">
+<feature-markdown "<b>Značková</b> podpora">
+<feature-downloads "Stahování <b>PDF a obrázků</b>">
+<feature-labels "Nepřipojené <b>textové boxy</b>">
+<feature-exports "Export jako <b>.mm a text</b>">
+<feature-imports "Import <b>.mm a text</b>">
+<feature-chat "Komentáře a chat">
+<feature-embed "Nesrovnatelné diagramy">
+<plans-free-getstarted "Začít">
 
-<plans-awesome-title "Awesome">
-<plans-awesome-description "Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.">
-<plans-awesome-price "$5 / month">
-<feature-include-free "Everything in <b>Free</b>">
-<feature-unlimited-private "<b>Unlimited</b> private diagrams">
-<feature-multiroot "<b>Multiple start points</b>">
-<feature-private "<b>Private diagrams</b>">
-<feature-chathistory "<b>Full</b> chat history">
-<feature-rearrange "<b>Auto-arrange branches</b>">
-<feature-rejoin "<b>Join Branches</b>">
-<feature-folders "<b>Shared folders</b>">
-<feature-presentation "Presentation mode">
-<feature-bigimages "<b>High-res image</b> uploads">
-<feature-linestyles "<b>Control line style</b>">
-<feature-extendedcolours "More colours">
-<feature-editable-links "Collaborate by <b>link</b>">
-<plans-findoutmore "Find out more">
+<plans-awesome-title "Super">
+<plans-awesome-description "Ideální pro <b>osobní</b> nebo <b>profesionální</b> využití, s ochranou soukromí a pokročilými funkcemi.">
+<plans-awesome-price "$5 / měsíc">
+<feature-include-free "Vše z varianty <b>Zdarma</b>">
+<feature-unlimited-private "<b>Nemezeně</b> soukromých diagramů">
+<feature-multiroot "<b>Více počátečních bodů</b>">
+<feature-private "<b>Soukromé diagramy</b>">
+<feature-chathistory "<b>Úplná </b> historie chatu">
+<feature-rearrange "<b>Automatické uspořádání větví</b>">
+<feature-rejoin "<b>Připojení poboček</b>">
+<feature-folders "<b>Sdílení složek</b>">
+<feature-presentation "Režim prezentace">
+<feature-bigimages "Nahrávání <b>obrázků s vysokým rozlišením</b>">
+<feature-linestyles "<b>Styl ovládací čáry</b>">
+<feature-extendedcolours "Více barev">
+<feature-editable-links "Spolupracuje s <b>odkazy</b>">
+<plans-findoutmore "Více informací">
 
-<plans-org-title "Organisation">
-<plans-org-description "Ideal for <b>teams</b> that want to control access to their data and consolidate billing.">
-<plans-org-price "$8 / member / month">
-<feature-org-awesome "Everything from <b>Awesome</b>">
-<feature-org-separate "Separate Personal workspace">
-<feature-org-billing "Consolidated billing">
-<feature-bulkexport "<b>Bulk export</b>">
-<feature-adminpanel "<b>User & data</b> management">
-<feature-branding "Branded diagrams">
-<feature-org-saml-sso "SAML Single Sign On">
+<plans-org-title "Organizace">
+<plans-org-description "Ideální pro <b>teamy</b> , které chtějí řídit přístup ke svým datům a konsolidovat fakturaci.">
+<plans-org-price "$8 / člen / měsíc">
+<feature-org-awesome "Vše z varianty <b>Super</b>">
+<feature-org-separate "Oddělený osobní pracovní prostor">
+<feature-org-billing "Konsolidovaná fakturace">
+<feature-bulkexport "<b>Hromadný export</b>">
+<feature-adminpanel "Správa <b>uživatelů a dat</b>">
+<feature-branding "Značkové diagramy">
+<feature-org-saml-sso "SAML jednotné přihlášení">
 
-<plans-select "Select">
-<continue-free "Continue on <b>Free</b> plan">
-<current-plan "Your current plan">
-<cancel-subscription "Cancel Subscription">
-<awesome-signup-monthly "Sign up <span>$5</span> per month">
-<awesome-signup-yearly "Sign up <span>$50</span> per year">
-<awesome-upgrade-monthly "Upgrade (<b>$5</b>/month)">
-<awesome-upgrade-yearly "Upgrade (<b>$50</b>/year)">
-<product-purchase "PURCHASE">
-<yearly-discount "Pay yearly and get 2 months free!">
-<yearly-discount-percent "Pay yearly and save over 15%">
-<switch-yearly "Upgrade to Yearly">
-<manage-subscription "Manage Subscription">
+<plans-select "Vybrat">
+<continue-free "Pokračovat v plánu <b>Zdarma</b>">
+<current-plan "Váš současný plán">
+<cancel-subscription "Zrušit předplatné">
+<awesome-signup-monthly "Přihlásit se <span>$5</span> za měsíc">
+<awesome-signup-yearly "Přihlásit se <span>$50</span> za rok">
+<awesome-upgrade-monthly "Vylepšit (<b>$5</b>/měsíc)">
+<awesome-upgrade-yearly "Vylepšit (<b>$50</b>/rok)">
+<product-purchase "KOUPIT">
+<yearly-discount "Platit ročně a získat 2 měsíce zdarma!">
+<yearly-discount-percent "Platit ročně a ušetřit více jak 15%">
+<switch-yearly "Platit ročně">
+<manage-subscription "Správa předplatného">
 
-<per-month "per month">
-<per-member-per-month "per member per month">
+<per-month "za měsíc">
+<per-member-per-month "za člena za měsíc">
 
-<awesome-feature "Awesome Plan">
-<org-feature "Organisation Feature">
+<awesome-feature "Plán Super">
+<org-feature "Funkce Organizace">
 
-<footer-about "about">
-<footer-contact "contact">
+<footer-about "o">
+<footer-contact "kontakt">
 <footer-facebook "facebook">
 <footer-twitter "twitter">
-<footer-privacy "privacy">
-<footer-terms "terms">
-<footer-press "press">
+<footer-privacy "soukromí">
+<footer-terms "podmínky">
+<footer-press "tisk">
 <footer-gdrive "<img/> Google Drive">
-<footer-what-is-mindmapping "What is Mindmapping?">
-<footer-top-uses "Top Mindmap Uses">
+<footer-what-is-mindmapping "Co je Mindmapping?">
+<footer-top-uses "Top Mindmap používá">
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
-<create-diagram "<span>Create Diagram</span>">
-<search-diagrams placeholder:"Search your diagrams">
-<view-gallery "Gallery">
-<create-folder "Create Folder">
-<shared-folders "Shared Folders">
-<created-by-you value:"Created By You">
-<shared-with-you value:"Shared With You">
-<folder-title placeholder:"Enter a folder name">
-<folder-areyousure "are you sure? <span>I&#39;m sure</span>">
-<logout "Logout">
-<settings "Settings">
-<return-to-diagrams "Return to your diagrams">
-<upgrade-to-awesome "Upgrade to <b>Awesome</b>!">
-<awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<create-diagram "<span>Vytvořit diagram</span>">
+<search-diagrams placeholder:"Najít tvůj diagram">
+<view-gallery "Galerie">
+<create-folder "Vytvořit složku">
+<shared-folders "Sdílet složky">
+<created-by-you value:"Vytvořeno mnou">
+<shared-with-you value:"Sdíleno se mnou">
+<folder-title placeholder:"Zadejte název složky">
+<folder-areyousure "jsi si jist? <span>I&#39;m sure</span>">
+<logout "Odhlásit">
+<settings "Nastavení">
+<return-to-diagrams "Vrátit k tvému diagramu">
+<upgrade-to-awesome "Vylepšit na <b>Super</b>!">
+<awesome-time-remaining "Super zkušební doba vyprší <time></time>"> /* <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
 <awesome-trial-after "Then you'll be moved onto the free plan">
 <want-awesome-for-free "Want Awesome for free?">
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
