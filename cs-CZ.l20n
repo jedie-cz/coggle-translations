@@ -199,10 +199,10 @@
 <awesome-trial-after "Then you'll be moved onto the free plan">
 <want-awesome-for-free "Want Awesome for free?">
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
-<help-search placeholder:"Help me to...">
+<help-search placeholder:"Pomoz mi...">
 <my-settings "Nastavení a fakturace">
 <org-name-settings "{{ $orgName }} Settings">
-<org-settings title:"Manage Organisation">
+<org-settings title:"Správa organizace">
 <user-about "O Coggle">
 <user-contact "Kontaktujte nás">
 <user-privacy "Ochrana osobních údajů">
